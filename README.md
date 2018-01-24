@@ -13,3 +13,5 @@ Operatios:
 -Scores 82% on Lighthouse PWA audit.
 -Chat with 2 sided display of text based on username.
 -Uses service worker to store cache to run offline.
+
+Demo: ionic-chat-starter-9b493.firebaseapp.com
