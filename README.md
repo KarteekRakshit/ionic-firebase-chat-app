@@ -14,4 +14,4 @@ Operatios:
 -Chat with 2 sided display of text based on username.
 -Uses service worker to store cache to run offline.
 
-Demo: ionic-chat-starter-9b493.firebaseapp.com
+Demo: https://ionic-chat-starter-9b493.firebaseapp.com/
